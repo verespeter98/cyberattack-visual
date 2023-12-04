@@ -1,0 +1,6 @@
+matplotlib
+selenium
+beautifulsoup4
+pandas
+geopandas
+descartes
